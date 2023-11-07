@@ -5,6 +5,11 @@ About me:
 I learn Java at Job4j ☕</br>
 My Java expirience is 9 months ⌚
 -
+Core technologies:
+
+![java](https://camo.githubusercontent.com/22f7126df1dffab378e3330e065fa7548f49473ac679b7932ac2e2b1b93e17c6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d253345253344253230382d6f72616e6765)
+-
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alnesterenko&show_icons=true)
 <!--
 **alnesterenko/alnesterenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
