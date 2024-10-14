@@ -3,7 +3,7 @@
 About me:
 
 I learn Java at Job4j ☕</br>
-My Java expirience is 1 year ⌚
+My Java expirience is 2 years ⌚
 -
 Core technologies:
 
