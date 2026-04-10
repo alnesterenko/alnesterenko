@@ -8,17 +8,17 @@ My Java expirience is 2 years ⌚
 
 💻 Tech Stack:
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-maroon?style=for-the-badge&logo=HTML5&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/CSS3-maroon?style=for-the-badge&logo=CSS3&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/JAVA SCRIPT-yellow?style=for-the-badge&logo=JAVASCRIPT&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP&logoColor=black"/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring_Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![/Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![/HTML5](https://img.shields.io/badge/HTML5-maroon?style=for-the-badge&logo=HTML5&logoColor=yellow)
+![CSS3](https://img.shields.io/badge/CSS3-maroon?style=for-the-badge&logo=CSS3&logoColor=yellow)
+![JAVA SCRIPT](https://img.shields.io/badge/JAVA SCRIPT-yellow?style=for-the-badge&logo=JAVASCRIPT&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP&logoColor=black)
 -
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alnesterenko&show_icons=true)
