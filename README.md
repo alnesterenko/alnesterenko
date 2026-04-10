@@ -17,7 +17,7 @@ My Java expirience is 2 years ⌚
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![/HTML5](https://img.shields.io/badge/HTML5-maroon?style=for-the-badge&logo=HTML5&logoColor=yellow)
 ![CSS3](https://img.shields.io/badge/CSS3-maroon?style=for-the-badge&logo=CSS3&logoColor=yellow)
-![JAVA SCRIPT](https://img.shields.io/badge/JAVA SCRIPT-yellow?style=for-the-badge&logo=JAVASCRIPT&logoColor=black)
+![JAVA SCRIPT](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=JAVASCRIPT&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=PHP&logoColor=black)
 -
 
